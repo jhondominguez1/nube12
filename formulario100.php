@@ -1,1 +1,5 @@
-formulario agregado desde la nube
+<?php
+
+echo "datos insertados desde el computador";
+
+?>
